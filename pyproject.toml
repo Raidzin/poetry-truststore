@@ -2,7 +2,7 @@
 name = "poetry-truststore"
 version = "0.1.0"
 description = ""
-authors = ["Raidzin <60663550+Raidzin@users.noreply.github.com>"]
+authors = ["Raidzin <agonch2001@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
